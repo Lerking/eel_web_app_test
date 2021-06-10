@@ -10,4 +10,4 @@ def random_python():
     return randint(1,100)
   
 # Start the index.html file
-eel.start("index.html", port = 8989)
+eel.start("index.html")
